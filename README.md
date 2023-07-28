@@ -23,5 +23,3 @@ Fortaleça suas aplicações web contra ameaças e ataques maliciosos. Descubra 
 
 > [Acesse a Aula 2](link_para_pagina_do_wiki_aula3)
 
-...
-
