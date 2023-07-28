@@ -1,4 +1,4 @@
-# Guia prático: #Segurança na web - Protegendo suas aplicações# 🚀
+# Guia prático: "Segurança na web - Protegendo suas aplicações" 🛡️
 
 ## Introdução
 Bem-vindo(a) ao Guia Prático de Segurança na Web! Neste tutorial, você vai aprender a proteger suas aplicações web de maneira eficiente e evitar os perigos e ameaças do mundo digital. A segurança é fundamental para garantir a integridade dos dados, a privacidade dos usuários e a confiabilidade das suas aplicações.
