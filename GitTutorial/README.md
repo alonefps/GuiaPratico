@@ -1,4 +1,4 @@
-# Tutorial de Git e GitHub 🤙
+# Guia prático: "Git e GitHub na prática" 🚀
 
 ## Introdução
 E aí, gente! Bem-vindos ao tutorial mais descolado de todos os tempos sobre como usar o Git e o GitHub! 🎉 Se você tá perdido(a) com essas paradas de controle de versão e quer aprender a mexer de verdade, vem comigo que eu vou te mostrar o caminho das pedras! 😎
