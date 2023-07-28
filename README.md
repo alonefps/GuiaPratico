@@ -15,7 +15,7 @@ Neste guia, vamos abordar tópicos essenciais para se tornar um desenvolvedor fu
 
 Aprenda passo a passo, desde os fundamentos do Git até a colaboração eficiente com GitHub. Domine todas as técnicas essenciais para se tornar um expert no controle de versão e colaboração em projetos.
 
-> [Acesse a Aula 1]([link_para_pagina_do_wiki_aula2](https://github.com/alonefps/GuiaPratico/wiki/Guia-prático:-"Git-e-GitHub-na-prática"))
+> [Acesse a Aula 1](https://github.com/alonefps/GuiaPratico/wiki/Guia-prático:-"Git-e-GitHub-na-prática")
 
 ## 🛡️ Aula 2 - Segurança na Web - Protegendo suas Aplicações 🛡️
 
