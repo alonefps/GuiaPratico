@@ -18,7 +18,7 @@ Neste guia, você aprenderá a fortalecer suas aplicações web contra ameaças 
 7- Como Lidar com Possíveis Ataques e Incidentes de Segurança
 ```
 
-### Guia Prático: "Git e GitHub na Prática" 🚀
+### [Guia Prático: "Git e GitHub na Prática" 🚀](./GitTutorial)
 Este guia é uma introdução completa ao Git e GitHub, o famoso sistema de controle de versão e plataforma de hospedagem de código. Aprenda a gerenciar projetos, colaborar com outros desenvolvedores e compartilhar seu código de forma eficiente.
 
 **Conteúdo do Guia:**
