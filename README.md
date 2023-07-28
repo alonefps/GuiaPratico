@@ -1,4 +1,4 @@
-#Guia Prático
+# Guia Prático
 
 Bem-vindo(a) ao **Guia Prático!** Este repositório reúne uma série de tutoriais descolados e cheios de conteúdo para impulsionar suas habilidades no mundo da programação e desenvolvimento de software. Aqui, você encontrará dois guias incríveis que vão desde a proteção das suas aplicações até o domínio completo do Git e GitHub.
 
