@@ -9,13 +9,12 @@ Este guia é uma introdução completa ao Git e GitHub, o famoso sistema de cont
 **Conteúdo do Guia:**
 
 ```
-1- Introdução
-2- Entendendo o Git - Conceitos Fundamentais
-3- Configuração Inicial e Criando um Repositório
-4- Controle de Versão e Commits
-5- Branches e Merge
-6- Trabalhando com Repositórios Remotos
-7- Colaboração e Pull Requests
+1- Entendendo o Git - Conceitos Fundamentais
+2- Configuração Inicial e Criando um Repositório
+3- Controle de Versão e Commits
+4- Branches e Merge
+5- Trabalhando com Repositórios Remotos
+6- Colaboração e Pull Requests
 ```
 
 ### [Guia Prático: "Segurança na Web - Protegendo suas Aplicações" 🛡️](./WebSecurity)
@@ -24,13 +23,12 @@ Neste guia, você aprenderá a fortalecer suas aplicações web contra ameaças 
 **Conteúdo do Guia:**
 
 ```
-1- Introdução
-2- Identificar e Entender as Principais Vulnerabilidades Web
-3- Implementar Medidas de Segurança para Proteger sua Aplicação contra Ataques Comuns
-4- Gerenciar Sessões e Autenticação de Forma Segura
-5- Utilizar Criptografia para Proteger Dados Sensíveis
-6- Evitar Práticas Inseguras no Desenvolvimento Web
-7- Como Lidar com Possíveis Ataques e Incidentes de Segurança
+1- Identificar e Entender as Principais Vulnerabilidades Web
+2- Implementar Medidas de Segurança para Proteger sua Aplicação contra Ataques Comuns
+3- Gerenciar Sessões e Autenticação de Forma Segura
+4- Utilizar Criptografia para Proteger Dados Sensíveis
+5- Evitar Práticas Inseguras no Desenvolvimento Web
+6- Como Lidar com Possíveis Ataques e Incidentes de Segurança
 ```
 
 ## Como Acessar os Guias:
