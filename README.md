@@ -1,43 +1,28 @@
-# Guia Prático
+# Guia Prático do Desenvolvedor Full Stack 🚀
 
-Bem-vindo(a) ao **Guia Prático!** Este repositório reúne uma série de tutoriais descolados e cheios de conteúdo para impulsionar suas habilidades no mundo da programação e desenvolvimento de software.
+Bem-vindo(a) ao Guia Prático! Aqui você encontrará uma série de aulas práticas para impulsionar suas habilidades no mundo da programação e desenvolvimento de software.
 
-## Sobre os Guias Disponíveis:
-### Guia Prático: "Segurança na Web - Protegendo suas Aplicações" 🛡️
-Neste guia, você aprenderá a fortalecer suas aplicações web contra ameaças e ataques maliciosos. Entenda as principais vulnerabilidades e descubra as melhores práticas de segurança para proteger dados sensíveis, gerenciar sessões e implementar autenticação segura.
+## Índice do Guia Prático:
 
-**Conteúdo do Guia:**
+- [Aula 1 - Introdução ao Desenvolvimento Web](link_para_pagina_do_wiki_aula1)
+- [Aula 2 - Git e GitHub na Prática](link_para_pagina_do_wiki_aula2)
+- [Aula 3 - Segurança na Web - Protegendo suas Aplicações](link_para_pagina_do_wiki_aula3)
 
-```
-1- Introdução
-2- Identificar e Entender as Principais Vulnerabilidades Web
-3- Implementar Medidas de Segurança para Proteger sua Aplicação contra Ataques Comuns
-4- Gerenciar Sessões e Autenticação de Forma Segura
-5- Utilizar Criptografia para Proteger Dados Sensíveis
-6- Evitar Práticas Inseguras no Desenvolvimento Web
-7- Como Lidar com Possíveis Ataques e Incidentes de Segurança
-```
+## Introdução
 
-### Guia Prático: "Git e GitHub na Prática" 🚀
-Este guia é uma introdução completa ao Git e GitHub, o famoso sistema de controle de versão e plataforma de hospedagem de código. Aprenda a gerenciar projetos, colaborar com outros desenvolvedores e compartilhar seu código de forma eficiente.
+Neste guia, vamos abordar tópicos essenciais para se tornar um desenvolvedor full stack confiante e preparado para os desafios do mundo da tecnologia.
 
-**Conteúdo do Guia:**
+## 🚀 Aula 2 - Git e GitHub na Prática 🚀
 
-```
-1- Introdução
-2- Entendendo o Git - Conceitos Fundamentais
-3- Configuração Inicial e Criando um Repositório
-4- Controle de Versão e Commits
-5- Branches e Merge
-6- Trabalhando com Repositórios Remotos
-7- Colaboração e Pull Requests
-```
+Aprenda passo a passo, desde os fundamentos do Git até a colaboração eficiente com GitHub. Domine todas as técnicas essenciais para se tornar um expert no controle de versão e colaboração em projetos.
 
-## Como Acessar os Guias:
-Cada guia possui sua própria pasta neste repositório. Basta acessar a pasta do guia desejado para encontrar o conteúdo completo e detalhado de cada aula. Fique à vontade para explorar, aprender e praticar com os exemplos e exercícios disponíveis.
+> [Acesse a Aula 2](link_para_pagina_do_wiki_aula2)
 
+## 🛡️ Aula 3 - Segurança na Web - Protegendo suas Aplicações 🛡️
 
-## Contribuindo:
-Se você deseja contribuir com novos guias ou melhorias nos existentes, sinta-se à vontade para fazer um pull request. A comunidade agradece!
+Fortaleça suas aplicações web contra ameaças e ataques maliciosos. Descubra as melhores práticas de segurança para proteger dados sensíveis e garantir a integridade de suas aplicações.
 
-Esperamos que você aproveite ao máximo esses guias práticos e aprimore suas habilidades no mundo da tecnologia. Divirta-se aprendendo e bons estudos! 🚀😄
+> [Acesse a Aula 3](link_para_pagina_do_wiki_aula3)
+
+...
+
