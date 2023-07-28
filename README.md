@@ -4,7 +4,7 @@ Bem-vindo(a) ao Guia Prático! Aqui você encontrará uma série de aulas práti
 
 ## Índice do Guia Prático:
 
-- [Aula 1 - Git e GitHub na Prática](link_para_pagina_do_wiki_aula2)
+- [Aula 1 - Introdução ao Desenvolvimento Web](https://github.com/alonefps/GuiaPratico/wiki/Guia-prático:-"Git-e-GitHub-na-prática")
 - [Aula 2 - Segurança na Web - Protegendo suas Aplicações](link_para_pagina_do_wiki_aula3)
 
 ## Introdução
