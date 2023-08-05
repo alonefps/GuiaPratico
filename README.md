@@ -3,7 +3,6 @@
 Bem-vindo(a) ao **Guia Prático!** Este repositório reúne uma série de tutoriais descolados e cheios de conteúdo para impulsionar suas habilidades no mundo da programação e desenvolvimento de software.
 
 ## Sobre os Guias Disponíveis:
-<<<<<<< HEAD
 ### [Guia Prático: "GitHub Student Pack" 🚀](./GitHubStudentPack)
 Este guia é um tutorial completo que apresenta como os estudantes podem obter o GitHub Student Pack de forma totalmente gratuita. Trata-se de um programa desenvolvido pelo GitHub com o objetivo de apoiar os estudantes em suas jornadas no mundo da tecnologia.
 
@@ -18,8 +17,6 @@ Este guia é um tutorial completo que apresenta como os estudantes podem obter o
 6- Suporte à Comunidade
 ```
 
-=======
->>>>>>> cee275abd2ff28dc9e4d6f9172f82672efb05646
 ### [Guia Prático: "Git e GitHub na Prática" 🚀](./GitTutorial)
 Este guia é uma introdução completa ao Git e GitHub, o famoso sistema de controle de versão e plataforma de hospedagem de código. Aprenda a gerenciar projetos, colaborar com outros desenvolvedores e compartilhar seu código de forma eficiente.
 
