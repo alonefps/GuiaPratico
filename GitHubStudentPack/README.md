@@ -1,6 +1,6 @@
 # Guia Prático: GitHub Student Pack
 
-![GitHub Student Pack](https://path/to/your/image.png)
+![GitHub Student Pack](/GitHubStudentPack/pack.png)
 
 ## O que é o GitHub Student Pack?
 
