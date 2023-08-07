@@ -9,12 +9,13 @@ Este guia é um tutorial completo que apresenta como os estudantes podem obter o
 **Conteúdo do Guia:**
 
 ```
-1- O que é o GitHub Student Pack
-2- Benefícios do GitHub Student Pack
-3- GitHub Pro
-4- Domínio .TECH .ME .LIVE gratuito
-5- Cursos da Microsoft/Créditos em Nuvem
-6- Suporte à Comunidade
+1- GitHub Copilot
+2- O que é o GitHub Student Pack
+3- Benefícios do GitHub Student Pack
+4- GitHub Pro
+5- Domínio .TECH .ME .LIVE gratuito
+6- Cursos da Microsoft/Créditos em Nuvem
+7- Suporte à Comunidade
 ```
 
 ### [Guia Prático: "Git e GitHub na Prática" 🚀](./GitTutorial)
