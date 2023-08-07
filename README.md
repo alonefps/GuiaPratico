@@ -3,7 +3,7 @@
 Bem-vindo(a) ao **Guia Prático!** Este repositório reúne uma série de tutoriais descolados e cheios de conteúdo para impulsionar suas habilidades no mundo da programação e desenvolvimento de software.
 
 ## Sobre os Guias Disponíveis:
-### [Guia Prático: "GitHub Student Pack" 🚀](./GitHubStudentPack)
+### [Guia Prático: "GitHub Student Pack" 🔥](./GitHubStudentPack)
 Este guia é um tutorial completo que apresenta como os estudantes podem obter o GitHub Student Pack de forma totalmente gratuita. Trata-se de um programa desenvolvido pelo GitHub com o objetivo de apoiar os estudantes em suas jornadas no mundo da tecnologia.
 
 **Conteúdo do Guia:**

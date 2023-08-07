@@ -4,15 +4,15 @@
 
 ## O que é o GitHub Student Pack?
 
-O GitHub Student Pack é um programa desenvolvido pelo GitHub para apoiar estudantes em suas jornadas no mundo da tecnologia. Ele oferece uma coleção de recursos e benefícios gratuitos, projetados para ajudar estudantes a aprimorarem suas habilidades em desenvolvimento de software, colaboração em projetos e expandirem seus conhecimentos na área.
+O GitHub Student Pack é um programa desenvolvido pelo GitHub para apoiar estudantes em suas jornadas no mundo da tecnologia. Ele oferece uma coleção de recursos e benefícios gratuitos, projetados para ajudar estudantes a aprimorarem suas habilidades em desenvolvimento de software, colaboração em projetos e expandirem seus conhecimentos na área, uma das vantagens mais atrativas para estudantes é o acesso gratuito ao GitHub Copilot. O GitHub Copilot é uma poderosa ferramenta de assistência à codificação, desenvolvida pela OpenAI em parceria com o GitHub.
 
 ## Benefícios do GitHub Student Pack
 
 Ao se inscrever no GitHub Student Pack, os estudantes têm acesso a uma variedade de ferramentas e serviços, geralmente gratuitos ou com descontos significativos. Alguns dos principais benefícios incluem:
 
-### 1. GitHub Pro:
+### 1. GitHub Pro / GitHub Copilot:
 
-Os estudantes recebem uma conta do GitHub Pro gratuitamente por 12 meses. A conta Pro oferece recursos avançados, como repositórios privados ilimitados, colaboração em projetos privados e suporte prioritário, que são extremamente úteis para desenvolvedores que desejam trabalhar em projetos privados durante seus estudos.
+Os estudantes recebem uma conta do GitHub Pro gratuitamente por 12 meses. A conta Pro oferece recursos avançados, como repositórios privados ilimitados, colaboração em projetos privados e suporte prioritário, que são extremamente úteis para desenvolvedores que desejam trabalhar em projetos privados durante seus estudos. Com o GitHub Copilot, estudantes podem desfrutar de sugestões inteligentes e completions de código em tempo real enquanto escrevem seus projetos. Essa ferramenta utiliza a tecnologia de IA para analisar o contexto do código sendo escrito e oferecer sugestões relevantes para facilitar o desenvolvimento.
 
 ### 2. Domínio .TECH .ME .LIVE gratuito:
 
